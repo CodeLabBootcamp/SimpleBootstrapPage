@@ -1,0 +1,33 @@
+/*
+ * Copyright (c) 2017/7/31 Created By YOUSIF
+ */
+
+
+
+.section{
+    padding: 80px;
+}
+
+.footer{
+    padding-top:10px;
+    color:#fff;
+}
+.section4{
+    background-color: #2b2b2b;
+}
+
+.section3{
+    background-image: url("../images/ninja.png");
+    background-repeat: no-repeat;
+    background-position:90% 0%;
+    background-size:contain;
+    background-color: #E1696A;
+    color:#fff;
+}
+
+
+@media screen and (max-width: 786px) {
+    .section{
+        padding: 5px;
+    }
+}
